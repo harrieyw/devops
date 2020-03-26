@@ -1,0 +1,6 @@
+create table tabletst1(
+firstname varchar(25),
+middlename varchar(25),
+lastname varchar(25),
+gender varchar(1),
+dpid number)
